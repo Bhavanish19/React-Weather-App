@@ -1,0 +1,55 @@
+/* Heading */
+
+.heading{
+    margin-top: 3rem;
+    color:whitesmoke;
+}
+
+/* Form */
+form {
+    margin-top: 5rem;
+    margin-left: 350px;
+  }
+  
+  form input[name="city"]{
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-bottom: 2px solid whitesmoke;
+    border-radius: 0;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  
+  .container input:focus {
+    background-color: transparent;
+    box-shadow: none !important;
+    border: none;
+    border-bottom: 2px solid #3399FF;
+  }
+  
+  input::placeholder {
+    color:gray !important;
+  }
+
+  #button{
+    font-size: 20px;
+    box-shadow: none;
+  }
+
+
+    
+/* Information */
+
+.information {
+   margin-top: 80px;
+   font-size: 32px;
+   font-weight:bold;
+   color:whitesmoke;
+   text-align: center;
+}
+
+
+
+ 
